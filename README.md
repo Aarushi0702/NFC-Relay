@@ -54,6 +54,12 @@ https://www.threatfabric.com/blogs/phantomcard-new-nfc-driven-android-malware-em
 https://www.webpronews.com/surge-in-android-malware-targets-banking-apps-with-nfc-fraud/
 Note: more articles will be added later
 
+##Acknowledgments and References
+A big thank to you these guys for doing such an amazing work , their work formed the base of this whole project.
+https://github.com/AdamLaurie/RFIDIOt
+https://salmg.net/category/nfc/
+https://hpkaushik121.medium.com/understanding-apdu-commands-emv-transaction-flow-part-2-d4e8df07eec
+
 ## 📝 Feedback & Contact
 
 I’d love to hear your feedback, suggestions, and reviews!  
