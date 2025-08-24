@@ -1,14 +1,65 @@
-This is a basic relay attack demonstration in NFC
-refer to  CIRC.jpg for  pusedo pos circuit diagram 
+# NFC Relay Attack Demonstration
 
-Two ACR122U readers are used to perform the relay 
-and PN532 + Raspberry Pi is used as psuedo pos.
+This repository demonstrates a **basic relay attack in NFC** using two ACR122U readers and a PN532 module with a Raspberry Pi acting as a pseudo Point-of-Sale (POS).
 
-The demo can be found here :
-https://mega.nz/file/2EAV0Jza#I_pvFABfu6XXkqdCK8zu5O-zgn9_tiNyZudNia8-bjI
+---
 
-Would love to hear any feedback , suggestions and reviews you can reach me at 
-aarushitaneja777@gmail.com 
+## 📜 Overview
 
+The project showcases how NFC communications can be intercepted and relayed between a victim card and a pseudo-POS device to simulate real-world relay attack scenarios.  
+This is purely for **educational and research purposes** in the field of cybersecurity.
+
+---
+
+## 🛠 Hardware & Setup
+
+- **Two [ACR122U](https://www.acs.com.hk/en/products/3/acr122u-usb-nfc-reader/) NFC Readers**
+- **PN532 NFC Module**
+- **Raspberry Pi** (used for the pseudo POS)
+
+Pseudo POS setup reference:  
+- Check `CIRC.jpg` for the pseudo POS circuit diagram.
+
+---
+
+## ▶️ Demonstration
+
+A working demo of the relay attack can be found here:
+
+🔗 [Demo Video on Mega](https://mega.nz/file/2EAV0Jza#I_pvFABfu6XXkqdCK8zu5O-zgn9_tiNyZudNia8-bjI)
+
+---
+
+## 📂 Files in Repository
+
+- `CIRC.jpg` → Pseudo POS circuit diagram
+- `psuedopos_soi.py` - psuedo pos script
+- `relay.py` - Relay script
+
+---
+
+## ⚠️ Disclaimer
+
+This project is intended **strictly for academic research and educational purposes only**.  
+Do not attempt to replicate this on real financial systems or without proper authorization.  
+The author is **not responsible for any misuse** of this information.
+
+---
+
+## 📝 Feedback & Contact
+
+I’d love to hear your feedback, suggestions, and reviews!  
+
+📧 Email: [aarushitaneja777@gmail.com](mailto:aarushitaneja777@gmail.com)
+
+---
+
+## 📌 Future Improvements
+
+Some possible upgrades:
+- Automating relay scripts to reduce latency
+- Supporting additional NFC hardware
+- Extending to mobile device relay scenarios
+- Improving visualization for teaching/demo purposes
 
 
