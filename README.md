@@ -64,7 +64,7 @@ https://hpkaushik121.medium.com/understanding-apdu-commands-emv-transaction-flow
 
 I’d love to hear your feedback, suggestions, and reviews!  
 
-📧 Email: [aarushitaneja777@gmail.com](mailto:aarushitaneja777@gmail.com)
+📧 Email: [aarushitaneja91@gmail.com](mailto:aarushitaneja91@gmail.com)
 
 ---
 
