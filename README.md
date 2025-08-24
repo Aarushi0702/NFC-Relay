@@ -33,7 +33,7 @@ A working demo of the relay attack can be found here:
 ## 📂 Files in Repository
 
 - `CIRC.jpg` → Pseudo POS circuit diagram
-- `psuedopos_soi.py` - psuedo pos script
+- `psuedopos_spi.py` - psuedo pos script
 - `relay.py` - Relay script
 
 ---
@@ -45,6 +45,14 @@ Do not attempt to replicate this on real financial systems or without proper aut
 The author is **not responsible for any misuse** of this information.
 
 ---
+
+## Recent article about  Relay attacks
+
+These articles will help you to understand how Relay attacks are still feasible in todays modern times.
+https://thehackernews.com/2025/08/new-android-malware-wave-hits-banking.html
+https://www.threatfabric.com/blogs/phantomcard-new-nfc-driven-android-malware-emerging-in-brazil
+https://www.webpronews.com/surge-in-android-malware-targets-banking-apps-with-nfc-fraud/
+Note: more articles will be added later
 
 ## 📝 Feedback & Contact
 
